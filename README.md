@@ -1,4 +1,4 @@
-
+![image alt](https://github.com/ABID-MAROOF30/CAR-sales-dashboard/blob/59cd5b81404c96885562fc7ca483722d7c533dd0/Screenshot%202024-08-22%20214956.png)
  ## CAR-sales-dashboard
 This repository is for maintaining the data related to a car sales dashboard prepared using microsoft excel
 Overview
