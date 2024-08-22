@@ -1,4 +1,5 @@
-## CAR-sales-dashboard
+![][]
+ ## CAR-sales-dashboard
 This repository is for maintaining the data related to a car sales dashboard prepared using microsoft excel
 Overview
 This dashboard provides a comprehensive overview of car sales data. It includes information on brand-wise owners, total no of seats, and kms driven by cars.
