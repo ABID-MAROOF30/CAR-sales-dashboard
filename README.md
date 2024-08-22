@@ -22,7 +22,7 @@ This line graph likely indicates the total mileage covered by cars from each bra
 Conclusion: BMW has the highest average mileage, suggesting that its cars might be used for longer distances or more frequent travel. Maruti and Tata have relatively lower average mileages, possibly indicating that their cars are used for shorter commutes or are driven less frequently.
 
 **MY DETAILS**:
-S.ABID MAROOF 
+NAME:S.ABID MAROOF 
 
 email:syedabidmaroof30@gmail.com
 
