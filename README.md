@@ -1,4 +1,3 @@
-![dashboard](Screenshot 2024-08-22 214956.png)
  ## CAR-sales-dashboard
 This repository is for maintaining the data related to a car sales dashboard prepared using microsoft excel
 Overview
