@@ -24,6 +24,6 @@ Conclusion: BMW has the highest average mileage, suggesting that its cars might 
 
 **MY DETAILS**:
 NAME:S.ABID MAROOF 
-
+linkedin:https://www.linkedin.com/posts/syed-abid-maroof-83911a263_introducing-my-latest-project-car-sales-activity-7233494617281679361-_un2?utm_source=share&utm_medium=member_desktop
 email:syedabidmaroof30@gmail.com
 
